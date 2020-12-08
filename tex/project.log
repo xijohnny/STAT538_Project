@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.4)  8 DEC 2020 12:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.4)  8 DEC 2020 14:02
 entering extended mode
 **./project.tex
 (project.tex
@@ -183,9 +183,170 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 \Gin@req@height=\dimen156
 \Gin@req@width=\dimen157
 )
+("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref
+.sty"
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+
+("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmd
+s.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftex
+cmds.sty"
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwar
+err.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifluatex.
+sty"
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetk
+eys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcm
+ds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+))
+("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefi
+nekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+)
+("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdfesc
+ape.sty"
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+)
+("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\hycolor.
+sty"
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+
+("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\xcolor-p
+atch.sty"
+Package: xcolor-patch 2016/05/16 xcolor patch
+
+("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hopatch\hopatch.s
+ty"
+Package: hopatch 2020-08-01 v1.4 Wrapper for package hooks (HO)
+)))
+("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\letltxma
+cro.sty"
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+)
+("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\auxhook.
+sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoption
+s.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen158
+\Hy@linkcounter=\count198
+\Hy@pagecounter=\count199
+
+("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.d
+ef"
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\intcal
+c.sty"
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count266
+
+("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyperref
+.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count267
+ ("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen159
+
+("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\bitset
+.sty"
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+
+("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\bigint
+calc.sty"
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count268
+\Field@Width=\dimen160
+\Fld@charsize=\dimen161
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+
+("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\atbegshi-ltx
+.sty"
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count269
+\c@Item=\count270
+\c@Hfootnote=\count271
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.
+def"
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+
+("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\atveryend-lt
+x.sty"
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count272
+\c@bookmark@seq@number=\count273
+
+("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rerunfil
+echeck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+
+("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\unique
+counter.sty"
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip61
+)
 ("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count198
+\c@float@type=\count274
 \float@exts=\toks24
 \float@box=\box49
 \@float@everytoks=\toks25
@@ -193,24 +354,24 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 )
 ("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings
 .sty"
-\lst@mode=\count199
+\lst@mode=\count275
 \lst@gtempboxa=\box51
 \lst@token=\toks26
-\lst@length=\count266
-\lst@currlwidth=\dimen158
-\lst@column=\count267
-\lst@pos=\count268
-\lst@lostspace=\dimen159
-\lst@width=\dimen160
-\lst@newlines=\count269
-\lst@lineno=\count270
-\lst@maxwidth=\dimen161
+\lst@length=\count276
+\lst@currlwidth=\dimen162
+\lst@column=\count277
+\lst@pos=\count278
+\lst@lostspace=\dimen163
+\lst@width=\dimen164
+\lst@newlines=\count279
+\lst@lineno=\count280
+\lst@maxwidth=\dimen165
 
 ("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.
 sty"
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-\c@lstnumber=\count271
-\lst@skipnumbers=\count272
+\c@lstnumber=\count281
+\lst@skipnumbers=\count282
 \lst@framebox=\box52
 )
 ("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings
@@ -222,33 +383,35 @@ Package: listings 2020/03/24 1.8d (Carsten Heinz)
 ("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multirow
 .sty"
 Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
-\multirow@colwidth=\skip61
-\multirow@cntb=\count273
-\multirow@dima=\skip62
-\bigstrutjot=\dimen162
+\multirow@colwidth=\skip62
+\multirow@cntb=\count283
+\multirow@dima=\skip63
+\bigstrutjot=\dimen166
 )
 ("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backe
 nd-pdftex.def"
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count274
+\l__kernel_color_stack_int=\count284
 \l__pdf_internal_box=\box53
 ) (project.aux)
 \openout1 = `project.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -288,16 +451,16 @@ LaTeX Font Info:    ... okay on input line 20.
 ("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-
 pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count275
-\scratchdimen=\dimen163
+\scratchcounter=\count285
+\scratchdimen=\dimen167
 \scratchbox=\box54
-\nofMPsegments=\count276
-\nofMParguments=\count277
+\nofMPsegments=\count286
+\nofMParguments=\count287
 \everyMPshowfont=\toks27
-\MPscratchCnt=\count278
-\MPscratchDim=\dimen164
-\MPnumerator=\count279
-\makeMPintoPDFobject=\count280
+\MPscratchCnt=\count288
+\MPscratchDim=\dimen168
+\MPnumerator=\count289
+\makeMPintoPDFobject=\count290
 \everyMPtoPDFconversion=\toks28
 )
 ("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epst
@@ -306,14 +469,37 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 )
-\c@lstlisting=\count281
-LaTeX Font Info:    Trying to load font information for U+msa on input line 21.
+Package hyperref Info: Link coloring OFF on input line 21.
+
+("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.
+sty"
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\refcount
+.sty"
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+)
+("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\gettit
+lestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count291
+)
+LaTeX Info: Redefining \ref on input line 21.
+LaTeX Info: Redefining \pageref on input line 21.
+LaTeX Info: Redefining \nameref on input line 21.
+ (project.out) (project.out)
+\@outlinefile=\write3
+\openout3 = `project.out'.
+
+\c@lstlisting=\count292
+LaTeX Font Info:    Trying to load font information for U+msa on input line 23.
 
 
 ("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 21.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 23.
 
  ("C:\Users\Johnny\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd
 "
@@ -327,8 +513,13 @@ Make it at least 14.49998pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[1]
-<fig/Histogram.png, id=11, 608.5134pt x 387.3672pt>
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.53 \end{table}
+                 [1]
+<fig/Histogram.png, id=79, 608.5134pt x 387.3672pt>
 File: fig/Histogram.png Graphic file (type png)
 <use fig/Histogram.png>
 Package pdftex.def Info: fig/Histogram.png  used on input line 60.
@@ -337,14 +528,30 @@ Package pdftex.def Info: fig/Histogram.png  used on input line 60.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[2] [3 <./fig/Histogram.png>]
-<fig/Hist_Split.png, id=23, 672.111pt x 437.2335pt>
+[2pdfTeX warning (ext4): destination with the same identifier (name{table.1}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.69 	
+      ] [3pdfTeX warning (ext4): destination with the same identifier (name{fig
+ure.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.82 	\end{itemize}
+                    <./fig/Histogram.png>]
+<fig/Hist_Split.png, id=100, 672.111pt x 437.2335pt>
 File: fig/Hist_Split.png Graphic file (type png)
 <use fig/Hist_Split.png>
 Package pdftex.def Info: fig/Hist_Split.png  used on input line 88.
 (pdftex.def)             Requested size: 469.75502pt x 305.59435pt.
- [4 <./fig/Hist_Split.png>]
-<fig/famrel.png, id=28, 647.5392pt x 456.0237pt>
+ [4pdfTeX warning (ext4): destination with the same identifier (name{figure.2})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.96 		\item F
+              or the previously defined highly absent students, the mean res...
+ <./fig/Hist_Split.png>]
+<fig/famrel.png, id=111, 647.5392pt x 456.0237pt>
 File: fig/famrel.png Graphic file (type png)
 <use fig/famrel.png>
 Package pdftex.def Info: fig/famrel.png  used on input line 108.
@@ -353,7 +560,7 @@ Package pdftex.def Info: fig/famrel.png  used on input line 108.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<fig/Correlation.png, id=29, 582.4962pt x 364.9635pt>
+<fig/Correlation.png, id=113, 582.4962pt x 364.9635pt>
 File: fig/Correlation.png Graphic file (type png)
 <use fig/Correlation.png>
 Package pdftex.def Info: fig/Correlation.png  used on input line 118.
@@ -361,52 +568,120 @@ Package pdftex.def Info: fig/Correlation.png  used on input line 118.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[5] [6 <./fig/famrel.png>] [7 <./fig/Correlation.png>]
-<fig/resid.png, id=46, 1387.584pt x 694.5147pt>
+[5] [6pdfTeX warning (ext4): destination with the same identifier (name{figure.
+3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.138 	
+        <./fig/famrel.png>] [7pdfTeX warning (ext4): destination with the same 
+identifier (name{figure.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.149 	
+        <./fig/Correlation.png>]
+<fig/resid.png, id=147, 1387.584pt x 694.5147pt>
 File: fig/resid.png Graphic file (type png)
 <use fig/resid.png>
 Package pdftex.def Info: fig/resid.png  used on input line 152.
 (pdftex.def)             Requested size: 469.75502pt x 235.1251pt.
- [8 <./fig/resid.png>]
-[9]
-<fig/ZIBNresid.png, id=58, 738.5994pt x 484.9317pt>
+ [8pdfTeX warning (ext4): destination with the same identifier (name{figure.5})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.166 	$$
+          <./fig/resid.png>] [9]
+<fig/ZIBNresid.png, id=170, 738.5994pt x 484.9317pt>
 File: fig/ZIBNresid.png Graphic file (type png)
 <use fig/ZIBNresid.png>
 Package pdftex.def Info: fig/ZIBNresid.png  used on input line 198.
 (pdftex.def)             Requested size: 469.75502pt x 308.41656pt.
- [10 <./fig/ZIBNresid.png>] [11] [12] (project.bbl) [13]
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[14] [15] [16] (project.aux) ) 
+[10]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[11pdfTeX warning (ext4): destination with the same identifier (name{figure.6})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.256 	\section
+               {Discussion} <./fig/ZIBNresid.png>] [12pdfTeX warning (ext4): de
+stination with the same identifier (name{table.2}) has been already used, dupli
+cate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.259 	\paragraph
+                 {} Although the zero-inflated Poisson was not included in t...
+pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.259 	\paragraph
+                 {} Although the zero-inflated Poisson was not included in t...
+] (project.bbl) [13]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[14pdfTeX warning (ext4): destination with the same identifier (name{table.4}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.361 
+      pdfTeX warning (ext4): destination with the same identifier (name{table.5
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.361 
+      ] [15pdfTeX warning (ext4): destination with the same identifier (name{ta
+ble.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.390 	$$
+         pdfTeX warning (ext4): destination with the same identifier (name{tabl
+e.7}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.390 	$$
+         pdfTeX warning (ext4): destination with the same identifier (name{tabl
+e.8}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.390 	$$
+         ] [16] (project.aux)
+Package rerunfilecheck Info: File `project.out' has not changed.
+(rerunfilecheck)             Checksum: D6933FF126DB651FE6D63761ADFA8855;754.
+ ) 
 Here is how much of TeX's memory you used:
- 4540 strings out of 479770
- 64153 string characters out of 2866028
- 351931 words of memory out of 3000000
- 21495 multiletter control sequences out of 15000+200000
- 544535 words of font info for 65 fonts, out of 3000000 for 9000
+ 8497 strings out of 479770
+ 127462 string characters out of 2866028
+ 438951 words of memory out of 3000000
+ 25268 multiletter control sequences out of 15000+200000
+ 544704 words of font info for 66 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,16n,72p,1845b,264s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Johnny\AppData\Local\MiKTeX\2.9\fonts/
-pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/Johnny/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Johnny/AppData
-/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/
-Johnny/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.
-pfb><C:/Users/Johnny/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmmi8.pfb><C:/Users/Johnny/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmr12.pfb><C:/Users/Johnny/AppData/Local/Programs/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Johnny/AppData/Local/Progr
-ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Johnny/AppData
-/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Jo
-hnny/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pf
+ 78i,16n,85p,1841b,396s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Johnny\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600
+\tcrm1200.pk><C:/Users/Johnny/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmbx12.pfb><C:/Users/Johnny/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Johnny/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Johnny/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/J
+ohnny/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pf
 b><C:/Users/Johnny/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmsy6.pfb><C:/Users/Johnny/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmsy8.pfb><C:/Users/Johnny/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Johnny/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on project.pdf (17 pages, 445847 bytes).
+s/cm/cmr17.pfb><C:/Users/Johnny/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmr6.pfb><C:/Users/Johnny/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Johnny/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Johnny/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Joh
+nny/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+<C:/Users/Johnny/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmti12.pfb><C:/Users/Johnny/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmtt12.pfb>
+Output written on project.pdf (17 pages, 470313 bytes).
 PDF statistics:
- 127 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 299 PDF objects out of 1000 (max. 8388607)
+ 88 named destinations out of 1000 (max. 500000)
+ 127 words of extra memory for PDF output out of 10000 (max. 10000000)
 
