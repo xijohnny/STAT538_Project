@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.4)  8 DEC 2020 14:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.4)  8 DEC 2020 14:23
 entering extended mode
 **./project.tex
 (project.tex
@@ -537,52 +537,57 @@ l.69
 ure.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.82 	\end{itemize}
-                    <./fig/Histogram.png>]
-<fig/Hist_Split.png, id=100, 672.111pt x 437.2335pt>
+l.79 			\item 2
+               2 out of 23, or $\approx 96\%$ had internet at home, compared...
+ <./fig/Histogram.png>]
+<fig/Hist_Split.png, id=101, 672.111pt x 437.2335pt>
 File: fig/Hist_Split.png Graphic file (type png)
 <use fig/Hist_Split.png>
-Package pdftex.def Info: fig/Hist_Split.png  used on input line 88.
+Package pdftex.def Info: fig/Hist_Split.png  used on input line 90.
 (pdftex.def)             Requested size: 469.75502pt x 305.59435pt.
- [4pdfTeX warning (ext4): destination with the same identifier (name{figure.2})
- has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
-l.96 		\item F
-              or the previously defined highly absent students, the mean res...
- <./fig/Hist_Split.png>]
-<fig/famrel.png, id=111, 647.5392pt x 456.0237pt>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[4]
+<fig/famrel.png, id=113, 647.5392pt x 456.0237pt>
 File: fig/famrel.png Graphic file (type png)
 <use fig/famrel.png>
-Package pdftex.def Info: fig/famrel.png  used on input line 108.
+Package pdftex.def Info: fig/famrel.png  used on input line 110.
 (pdftex.def)             Requested size: 469.75502pt x 330.82094pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<fig/Correlation.png, id=113, 582.4962pt x 364.9635pt>
+<fig/Correlation.png, id=115, 582.4962pt x 364.9635pt>
 File: fig/Correlation.png Graphic file (type png)
 <use fig/Correlation.png>
-Package pdftex.def Info: fig/Correlation.png  used on input line 118.
+Package pdftex.def Info: fig/Correlation.png  used on input line 120.
 (pdftex.def)             Requested size: 469.75502pt x 294.33797pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[5] [6pdfTeX warning (ext4): destination with the same identifier (name{figure.
-3}) has been already used, duplicate ignored
+[5pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) 
+has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.133 	$$
-          <./fig/famrel.png>] [7pdfTeX warning (ext4): destination with the sam
-e identifier (name{figure.4}) has been already used, duplicate ignored
+l.127 	\begin{gather*}
+                       <./fig/Hist_Split.png>] [6pdfTeX warning (ext4): destina
+tion with the same identifier (name{figure.3}) has been already used, duplicate
+ ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.146 	\end{gather*}
-                     <./fig/Correlation.png>]
+l.133 	
+        <./fig/famrel.png>] [7pdfTeX warning (ext4): destination with the same 
+identifier (name{figure.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.144 	\begin{gather*}
+                       <./fig/Correlation.png>]
 <fig/resid.png, id=146, 1387.584pt x 694.5147pt>
 File: fig/resid.png Graphic file (type png)
 <use fig/resid.png>
-Package pdftex.def Info: fig/resid.png  used on input line 152.
+Package pdftex.def Info: fig/resid.png  used on input line 154.
 (pdftex.def)             Requested size: 469.75502pt x 235.1251pt.
 
 
@@ -592,12 +597,12 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 5}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.184 	\begin{gather*}
-                       <./fig/resid.png>]
-<fig/ZIBNresid.png, id=169, 738.5994pt x 484.9317pt>
+l.183 	\section
+               {Zero-inflated Negative Binomial} <./fig/resid.png>]
+<fig/ZIBNresid.png, id=170, 738.5994pt x 484.9317pt>
 File: fig/ZIBNresid.png Graphic file (type png)
 <use fig/ZIBNresid.png>
-Package pdftex.def Info: fig/ZIBNresid.png  used on input line 198.
+Package pdftex.def Info: fig/ZIBNresid.png  used on input line 200.
 (pdftex.def)             Requested size: 469.75502pt x 308.41656pt.
 
 
@@ -607,20 +612,22 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 e.6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.219 	$$
-          <./fig/ZIBNresid.png>] [12pdfTeX warning (ext4): destination with the
- same identifier (name{table.2}) has been already used, duplicate ignored
+l.217 	
+        <./fig/ZIBNresid.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[12pdfTeX warning (ext4): destination with the same identifier (name{table.2}) 
+has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.259 	\paragraph
-                 {} Although the zero-inflated Poisson was not included in t...
-pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has
- been already used, duplicate ignored
+l.261 	
+       ] (project.bbl [13pdfTeX warning (ext4): destination with the same ident
+ifier (name{table.3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.259 	\paragraph
-                 {} Although the zero-inflated Poisson was not included in t...
-] (project.bbl [13]) [14]
+l.8 \bibitem{Gubbels::2019}
+                           ]) [14]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -628,39 +635,39 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.361 
+l.364 
       pdfTeX warning (ext4): destination with the same identifier (name{table.5
 }) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.361 
+l.364 
       ] [16pdfTeX warning (ext4): destination with the same identifier (name{ta
 ble.6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.390 	$$
+l.393 	$$
          pdfTeX warning (ext4): destination with the same identifier (name{tabl
 e.7}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.390 	$$
+l.393 	$$
          pdfTeX warning (ext4): destination with the same identifier (name{tabl
 e.8}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.390 	$$
+l.393 	$$
          ] [17] (project.aux)
 Package rerunfilecheck Info: File `project.out' has not changed.
 (rerunfilecheck)             Checksum: D6933FF126DB651FE6D63761ADFA8855;754.
  ) 
 Here is how much of TeX's memory you used:
- 8498 strings out of 479770
- 127469 string characters out of 2866028
+ 8499 strings out of 479770
+ 127480 string characters out of 2866028
  438951 words of memory out of 3000000
  25268 multiletter control sequences out of 15000+200000
  544704 words of font info for 66 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 78i,16n,85p,1841b,444s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 78i,16n,85p,1841b,450s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Johnny\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600
 \tcrm1200.pk><C:/Users/Johnny/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmbx12.pfb><C:/Users/Johnny/AppData/Local/Programs/MiKTeX 2.9/f
@@ -678,9 +685,9 @@ nny/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
 <C:/Users/Johnny/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmti12.pfb><C:/Users/Johnny/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmtt12.pfb>
-Output written on project.pdf (18 pages, 470911 bytes).
+Output written on project.pdf (18 pages, 471931 bytes).
 PDF statistics:
- 303 PDF objects out of 1000 (max. 8388607)
- 89 named destinations out of 1000 (max. 500000)
+ 304 PDF objects out of 1000 (max. 8388607)
+ 90 named destinations out of 1000 (max. 500000)
  127 words of extra memory for PDF output out of 10000 (max. 10000000)
 
