@@ -123,8 +123,8 @@
 	\subsection{Poisson Regression}
 	\paragraph{} For our confirmatory analysis, we first attempt to fit a Poisson generalized linear model (GLM) to the data. The Poisson GLM is the simplest regression model that respects the integer constraint on our data, and is defined as follows. Let $\beta$ be a d- dimensional vector and $\beta_0$ a scalar, then suppose that
 	\begin{gather*}
-	Y_i|X_i \sim \text{Poisson}(\mu_i) \\
-	\mu_i = \exp(\beta_0 + X_i\beta) \\
+	Y_i|X_i \sim \text{Poisson}(\mu_i) \\ \\
+	\mu_i = \exp(\beta_0 + X_i\beta) \\ \\
 	E[Y_i|X_i] = \mu_i = Var[Y_i|X_i]
 	\end{gather*} 
 	\paragraph{} The optimal model is selected using backwards selection with the BIC penalized log-likelihood, which is found to have 7 predictors including the constant. The entire maximum likelihood fit can be found in the appendix. We provide a Pearson's residual plot by predicting the response by the corresponding mean under the model to assess the fit of the model in Figure \ref{resid}. 
@@ -140,8 +140,8 @@
 	
 	\paragraph{} To remedy the variance underestimation issue, the negative binomial (NegBin) GLM is a natural choice. The NegBin is another model that respects the integer constraints of the response, but includes an additional parameter $\alpha$ to provide a more expressive measure of variance. The model under the $\mu$, $\alpha$ parameterization is then:
 	\begin{gather*}
-	Y_i|X_i \sim \text{NegBin}(\mu_i, \alpha) \quad \alpha > 0\\ 
-	\mu_i = \exp(\beta_0 + X_i\beta) \\
+	Y_i|X_i \sim \text{NegBin}(\mu_i, \alpha) \quad \alpha > 0\\ \\
+	\mu_i = \exp(\beta_0 + X_i\beta) \\ \\
 	E[Y_i|X_i] = \mu_i \quad Var[Y_i|X_i] = \mu + \mu^2\alpha
 	\end{gather*}
 	%
@@ -186,8 +186,8 @@
 	0 & \text{With probability } p_i \\
 	\text{NegBin}(\mu_i, \alpha)  & \text{With probability } 1-p_i
 	\end{cases} \quad \alpha > 0
-	\\
-	\mu_i = \exp(\beta_0 + X_i\beta) \quad p_i = (1 + \exp(\gamma_0 + X_i\gamma))^{-1}  \\  
+	\\ \\
+	\mu_i = \exp(\beta_0 + X_i\beta) \quad p_i = (1 + \exp(\gamma_0 + X_i\gamma))^{-1}  \\ \\  
 	E[Y_i|X_i] = (1-p_i)\mu_i \quad Var[Y_i|X_i] = (1-p_i)(\mu + \mu^2\alpha + p_i\mu^2)
 	\end{gather*}
 	
@@ -401,7 +401,7 @@
 	%
 	and the PMF becomes
 	$$
-	P_Y(y) = \frac{y + \alpha^{-1}}{y!\Gamma(\alpha^{-1})}\left(\frac{\alpha^{-1}}{\alpha^{-1} + \mu} \right)^{\alpha^{-1}}\left(\frac{\mu}{\alpha^{-1} + \mu} \right)^y
+	P_Y(y) = \frac{\Gamma(y + \alpha^{-1})}{y!\Gamma(\alpha^{-1})}\left(\frac{\alpha^{-1}}{\alpha^{-1} + \mu} \right)^{\alpha^{-1}}\left(\frac{\mu}{\alpha^{-1} + \mu} \right)^y
 	$$
 	%
 	from which we can obtain the following probability under the model by considering $P_Y(0)$:

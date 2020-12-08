@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.4)  8 DEC 2020 14:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.4)  8 DEC 2020 14:11
 entering extended mode
 **./project.tex
 (project.tex
@@ -572,25 +572,29 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.138 	
-        <./fig/famrel.png>] [7pdfTeX warning (ext4): destination with the same 
-identifier (name{figure.4}) has been already used, duplicate ignored
+l.133 	$$
+          <./fig/famrel.png>] [7pdfTeX warning (ext4): destination with the sam
+e identifier (name{figure.4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.149 	
-        <./fig/Correlation.png>]
-<fig/resid.png, id=147, 1387.584pt x 694.5147pt>
+l.146 	\end{gather*}
+                     <./fig/Correlation.png>]
+<fig/resid.png, id=146, 1387.584pt x 694.5147pt>
 File: fig/resid.png Graphic file (type png)
 <use fig/resid.png>
 Package pdftex.def Info: fig/resid.png  used on input line 152.
 (pdftex.def)             Requested size: 469.75502pt x 235.1251pt.
- [8pdfTeX warning (ext4): destination with the same identifier (name{figure.5})
- has been already used, duplicate ignored
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[8] [9pdfTeX warning (ext4): destination with the same identifier (name{figure.
+5}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.166 	$$
-          <./fig/resid.png>] [9]
-<fig/ZIBNresid.png, id=170, 738.5994pt x 484.9317pt>
+l.184 	\begin{gather*}
+                       <./fig/resid.png>]
+<fig/ZIBNresid.png, id=169, 738.5994pt x 484.9317pt>
 File: fig/ZIBNresid.png Graphic file (type png)
 <use fig/ZIBNresid.png>
 Package pdftex.def Info: fig/ZIBNresid.png  used on input line 198.
@@ -599,18 +603,13 @@ Package pdftex.def Info: fig/ZIBNresid.png  used on input line 198.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[10]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[11pdfTeX warning (ext4): destination with the same identifier (name{figure.6})
- has been already used, duplicate ignored
+[10] [11pdfTeX warning (ext4): destination with the same identifier (name{figur
+e.6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.256 	\section
-               {Discussion} <./fig/ZIBNresid.png>] [12pdfTeX warning (ext4): de
-stination with the same identifier (name{table.2}) has been already used, dupli
-cate ignored
+l.219 	$$
+          <./fig/ZIBNresid.png>] [12pdfTeX warning (ext4): destination with the
+ same identifier (name{table.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
 l.259 	\paragraph
@@ -621,11 +620,11 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has
                                                   
 l.259 	\paragraph
                  {} Although the zero-inflated Poisson was not included in t...
-] (project.bbl) [13]
+] (project.bbl [13]) [14]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[14pdfTeX warning (ext4): destination with the same identifier (name{table.4}) 
+[15pdfTeX warning (ext4): destination with the same identifier (name{table.4}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
@@ -635,7 +634,7 @@ l.361
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
 l.361 
-      ] [15pdfTeX warning (ext4): destination with the same identifier (name{ta
+      ] [16pdfTeX warning (ext4): destination with the same identifier (name{ta
 ble.6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
@@ -650,18 +649,18 @@ e.8}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
 l.390 	$$
-         ] [16] (project.aux)
+         ] [17] (project.aux)
 Package rerunfilecheck Info: File `project.out' has not changed.
 (rerunfilecheck)             Checksum: D6933FF126DB651FE6D63761ADFA8855;754.
  ) 
 Here is how much of TeX's memory you used:
- 8497 strings out of 479770
- 127462 string characters out of 2866028
+ 8498 strings out of 479770
+ 127469 string characters out of 2866028
  438951 words of memory out of 3000000
  25268 multiletter control sequences out of 15000+200000
  544704 words of font info for 66 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 78i,16n,85p,1841b,396s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 78i,16n,85p,1841b,444s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Johnny\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600
 \tcrm1200.pk><C:/Users/Johnny/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmbx12.pfb><C:/Users/Johnny/AppData/Local/Programs/MiKTeX 2.9/f
@@ -679,9 +678,9 @@ nny/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
 <C:/Users/Johnny/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmti12.pfb><C:/Users/Johnny/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmtt12.pfb>
-Output written on project.pdf (17 pages, 470313 bytes).
+Output written on project.pdf (18 pages, 470911 bytes).
 PDF statistics:
- 299 PDF objects out of 1000 (max. 8388607)
- 88 named destinations out of 1000 (max. 500000)
+ 303 PDF objects out of 1000 (max. 8388607)
+ 89 named destinations out of 1000 (max. 500000)
  127 words of extra memory for PDF output out of 10000 (max. 10000000)
 
