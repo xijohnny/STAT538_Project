@@ -1,2 +1,2 @@
 # STAT538_Project
- STAT538 Final Project
+Tex files are in the tex directory, code and data are both in the python directory
