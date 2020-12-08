@@ -1,0 +1,31 @@
+This is 8-bit Big BibTeX version 0.99d
+Implementation:  Microsoft(R) C/C++ for Win32
+Release version: 3.71 (04 mar 2019)
+
+The 8-bit codepage and sorting file: 88591lat.csf
+The top-level auxiliary file: project.aux
+The style file: unsrt.bst
+Reallocated glb_str_ptr (elt_size=4) to 10 items from 0.
+Reallocated global_strs (elt_size=1001) to 10 items from 0.
+Reallocated glb_str_end (elt_size=4) to 10 items from 0.
+Database file #1: project_bib.bib
+Warning--entry type for "eurostat" isn't style-file defined
+--line 44 of file project_bib.bib
+Warning--empty journal in Currie::2009
+Warning--empty year in Currie::2009
+Warning--empty journal in Gubbels::2019
+Warning--empty year in Gubbels::2019
+Warning--empty journal in Rocque::2016
+Warning--empty year in Rocque::2016
+Warning--empty year in Cortez::2008
+Warning--empty journal in Hall::2004
+Warning--empty year in Hall::2004
+
+Here's how much of BibTeX's memory you used:
+ Cites:                 6 out of 750
+ Fields:              127 out of 5000
+ Hash table:         4872 out of 5000
+ Strings:             468 out of 4000
+ Free string pool:   4487 out of 65000
+ Wizard functions:   1791 out of 3000
+(There were 10 warnings)
